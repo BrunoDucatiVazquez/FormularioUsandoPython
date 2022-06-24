@@ -6,6 +6,8 @@ Um Projeto para aprender como usar o Flask para criação de desenvolvimento web
 # Tecnologias Utilizadas
 
 - Python: Usando o framework Flask para desenvolvimento web
+- HTML, CSS: para a criação do site
+- SQLAlchemy: para a utilização de base de dados dos usuários cadastrados no sistema
 
 # Tela do sistema
 
